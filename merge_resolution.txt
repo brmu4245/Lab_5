@@ -1,0 +1,37 @@
+commit 156fca481459edd706ef8b166bf2d0d6579beed8 (HEAD -> master)
+Merge: 4d23d18 980ccdf
+Author: Bret L. Murray <brmu4245@colorado.edu>
+Date:   Sat Feb 16 14:20:06 2019 -0700
+
+    Merge branch 'master' of https://github.com/brmu42
+
+commit 4d23d188ab5c4c5da1acacf48b8c8e81df9ddee6
+Author: Bret L. Murray <brmu4245@colorado.edu>
+Date:   Sat Feb 16 14:18:59 2019 -0700
+
+    Completes step 24
+
+commit 980ccdf3167de077d9a3d1dbb4e0e3b971757765
+Author: Maxwell Reynolds <maxreynolds55@gmail.com>
+Date:   Sat Feb 16 14:13:01 2019 -0700
+
+    Commit
+
+commit 65c6e5390cc89c7f8bf8a2ce195f3ef16df111f4 (testing-new-files)
+Author: Bret L. Murray <brmu4245@colorado.edu>
+Date:   Sat Feb 16 11:53:30 2019 -0700
+
+    Third branch commit
+
+commit 09e979a8aa1c86e5c07c77b735699faceaa0f886
+Author: Bret L. Murray <brmu4245@colorado.edu>
+Date:   Sat Feb 16 11:52:57 2019 -0700
+
+    Second branch commit
+
+commit 64093dd491ad465a11790650e0261d42e4d63d6b
+Author: Bret L. Murray <brmu4245@colorado.edu>
+Date:   Sat Feb 16 11:52:17 2019 -0700
+
+
+    First branch change
